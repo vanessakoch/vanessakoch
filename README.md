@@ -16,4 +16,4 @@ As a self teached student, I am hungry to learn and play with new stuff all the 
 - 💬 Ask me about: tech, series, games, health
 
 ---
-⭐️ From [Vanessa Koch](https://github.com/vanessakoch)
+Made with 💜 by [Vanessa Koch](https://github.com/vanessakoch)
