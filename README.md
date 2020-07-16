@@ -6,14 +6,14 @@
 
 
 
-## Hello World 🙋 
+## Hello World 🙋  :earth_americas:
 I'm Vanessa, a very passionate developer.. I really love to program! 💙 <br />
-As a self teached student, I am hungry to learn and play with new stuff all the time 👨‍💻 
+As a self teached student, I am hungry to learn and play with new stuff all the time 👩‍💻
 
 - 🔭 I’m currently studying Systems Analysis and Development at IFSC and bootcamp LaunchBase at Rocketseat.
 - 🌱 I’m currently learning TypeScript, Node.js, React Native and React.
 -  ⚡ Languages: Java, JavaScript, Python.
-- 💬 Ask me about: tech, series, games, health
+- 💬 Ask me about: tech, series, games, travels, rock n'roll and health
 
 ---
 Made with 💜 by [Vanessa Koch](https://github.com/vanessakoch)
