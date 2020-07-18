@@ -8,7 +8,7 @@
 
 ## Hello World 🙋  :earth_americas:
 I'm Vanessa, a very passionate developer.. I really love to program! 💙 <br />
-As a self teached student, I am hungry to learn and play with new stuff all the time 👩‍💻
+I am hungry to learn and play with new stuff all the time 👩‍💻
 
 - 🔭 I’m currently studying Systems Analysis and Development at IFSC and bootcamp LaunchBase at Rocketseat.
 - 🌱 I’m currently learning TypeScript, Node.js, React Native and React.
