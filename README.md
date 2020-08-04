@@ -1,11 +1,9 @@
 # Vanessa Ribeiro Koch 
 
-![Vanessa's github stats](https://github-readme-stats.vercel.app/api?username=vanessakoch&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessakoch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-## Hello World 🙋  :earth_americas:
 I'm Vanessa, a very passionate developer.. I really love to program! 💙 <br />
 I am hungry to learn and play with new stuff all the time 👩‍💻
 
@@ -13,6 +11,17 @@ I am hungry to learn and play with new stuff all the time 👩‍💻
 - 🌱 I’m currently learning TypeScript, Node.js, React Native and React.
 -  ⚡ Languages: Java, JavaScript, Python.
 - 💬 Ask me about: tech, series, games, travels, rock n'roll and health
+
+<center>
+    <table>
+    <tr>
+        <td>
+            <img width="460px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessakoch&hide=html&layout=compact" />
+        </td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=vanessakoch&theme=default" /></td>
+    </tr>   
+    </table>
+</center>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vanessakoch)](https://github.com/vanessakoch)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-ribeiro-koch-134792b8/)](https://www.linkedin.com/in/vanessa-ribeiro-koch-134792b8/)
