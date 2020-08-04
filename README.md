@@ -13,10 +13,10 @@ I am hungry to learn and play with new stuff all the time 👩‍💻
 <table>
 <tr>
     <td>
-        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=vanessakoch&theme=default" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=vanessakoch&hide=issues,prs" />
     </td>
     <td>
-        <img width="460px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessakoch&hide=html&layout=compact" />
+        <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessakoch&hide=html&layout=compact" />
     </td>
 </tr>   
 </table>
