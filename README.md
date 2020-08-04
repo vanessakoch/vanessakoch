@@ -10,17 +10,16 @@ I am hungry to learn and play with new stuff all the time 👩‍💻
 -  ⚡ Languages: Java, JavaScript, Python.
 - 💬 Ask me about: tech, series, games, travels, rock n'roll and health
 
-<center>
-    <table>
-    <tr>
-        <td>
-            <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=vanessakoch&theme=default" />
-        </td>
-        <td>
-            <img width="460px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessakoch&hide=html&layout=compact" />
-        </td>
-    </tr>   
-    </table>
+<table>
+<tr>
+    <td>
+        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=vanessakoch&theme=default" />
+    </td>
+    <td>
+        <img width="460px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessakoch&hide=html&layout=compact" />
+    </td>
+</tr>   
+</table>
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vanessakoch)](https://github.com/vanessakoch)
@@ -28,4 +27,3 @@ I am hungry to learn and play with new stuff all the time 👩‍💻
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vahnkoch@gmail.com)](mailto:vahnkoch@gmail.com)
 ---
 Made with 💜 by [Vanessa Koch](https://github.com/vanessakoch)
-</center>
