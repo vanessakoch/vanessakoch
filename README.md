@@ -5,9 +5,9 @@
 I'm Vanessa, a very passionate developer.. I really love to program! 💙 <br />
 I am hungry to learn and play with new stuff all the time 👩‍💻
 
-- 🔭 I’m currently studying Systems Analysis and Development at IFSC and bootcamp LaunchBase at Rocketseat.
-- 🌱 I’m currently learning TypeScript, Node.js, React Native and React.
--  ⚡ Languages: Java, JavaScript, Python.
+- 🔭 I completed Systems Analysis and Development at IFSC.
+- 🌱 I’m currently learning Firebase, Cloud Functions, AWS.
+-  ⚡ Languages: Java (Android), JavaScript/TypeScript, Node.js, React Native and React.
 - 💬 Ask me about: tech, series, games, travels, rock n'roll and health
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vanessakoch)](https://github.com/vanessakoch)
