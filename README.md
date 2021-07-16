@@ -5,7 +5,7 @@
 I'm Vanessa, a very passionate developer.. I really love to program! 💙 <br />
 I am hungry to learn and play with new stuff all the time 👩‍💻
 
-- 🔭 I completed Systems Analysis and Development at IFSC.
+- 🔭 I graduated Systems Analysis and Development at IFSC.
 - 🌱 I’m currently learning Firebase, Cloud Functions, AWS.
 -  ⚡ Languages: Java (Android), JavaScript/TypeScript, Node.js, React Native and React.
 - 💬 Ask me about: tech, series, games, travels, rock n'roll and health
