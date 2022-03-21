@@ -8,7 +8,8 @@ I am hungry to learn and play with new stuff all the time 👩‍💻
 - 🔭 I've completed Systems Analysis and Development at IFSC.
 - 🌱 I’m currently learning AWS/S3/RDS/Lambda/Dynamo and GCP with Cloud Functions/PubSub/Firestore.
 -  ⚡ Techs: Java (Android), JavaScript/TypeScript, NodeJs, React, Mysql, Jest.
-- 💬 Ask me about: tech, series, games, travels, rock n'roll and health
+- 💬 Ask me about: tech, series, games, travels, rock n'roll and health.
+-  ⚡ Currently working on gitlab projects.
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessakoch&theme=radical&show_icons=true&count_private=true?&include_all_commits=true" alt="Github Stats" height="165"/>
