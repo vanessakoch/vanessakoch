@@ -11,11 +11,6 @@ I am hungry to learn and play with new stuff all the time 👩‍💻
 - 💬 Ask me about: tech, series, games, travels, rock n'roll and health.
 -  ⚡ Currently working on gitlab projects.
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessakoch&theme=radical&show_icons=true&count_private=true?&include_all_commits=true" alt="Github Stats" height="165"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessakoch&layout=compact&theme=radical" alt="Top Langs"  height="165"/>
-</p>
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vanessakoch)](https://github.com/vanessakoch)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-ribeiro-koch-134792b8/)](https://www.linkedin.com/in/vanessa-ribeiro-koch-134792b8/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vahnkoch@gmail.com)](mailto:vahnkoch@gmail.com)
